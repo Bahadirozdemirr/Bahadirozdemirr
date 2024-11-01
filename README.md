@@ -1,3 +1,4 @@
+<h2>Bahadır Özdemir</h2> 
 <div>
   Hello, I am a Junior .Net Developer and I am passionate about exploring the world of software development along with music. I firmly believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
   
