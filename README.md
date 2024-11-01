@@ -11,7 +11,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 <h2 align="left">Socials:</h2> 
 <p align="left">
-  <a href="mailto:ozdemirbahaadir@gmail.com" alt="Miray">
+  <a href="mailto:ozdemirbahaadir@gmail.com" alt="Bahadirozdemirr">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/bahadır-özdemir-/" alt="bahadır-özdemir-">
@@ -56,18 +56,18 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <img src="https://github-readme-stats.vercel.app/api?username=Bahadirozdemirr&amp;theme=react&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 <br>
 </br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MirayDurgun&theme=react&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahadirozdemirr&theme=react&hide_border=true">
  <br/>
   </td>  
   <td width="50%" align="center">
-<img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MirayDurgun&theme=react&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bahadirozdemirr&theme=react&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
     </tr>
   </table>
   
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-  <img alt="Miray's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirayDurgun&theme=react&hide_border=true" />
+  <img alt="Bahadır's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Bahadirozdemirr&theme=react&hide_border=true" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="center">
