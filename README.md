@@ -41,10 +41,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-
-
 <h2>GitHub Stats:</h2>
-
 
 <table border="0" align="center">
    <tr border="0">     
@@ -60,17 +57,8 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
   </td>
     </tr>
   </table>
-  
-  
+    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <img alt="Bahadır's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Bahadirozdemirr&theme=react&hide_border=true" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<p align="center">
-<a href="https://github.com/Anmol-Baranwal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
-</p>
-
-
-
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
