@@ -8,8 +8,6 @@ Coding is not just a job for me; it's a journey of continuous learning and growt
 <h2>Continuous Learning</h2> 
 
 As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2 align="left">Socials:</h2> 
 <p align="left">
