@@ -1,41 +1,34 @@
-<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/9f4458fd-ad63-4d1f-9b32-230258f0a256" width="300" height="35">
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <div>
   Hello, I am a Junior .Net Developer and I am passionate about exploring the world of software development along with music. I firmly believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
   
   [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/190b4198-6377-4765-9be1-05cec2c81d3d" width="40" height="35"> Music Enthusiast</h2> 
-
-Music is my greatest source of inspiration and relaxation. When I'm not coding, you can probably find me lost in the world of melodies with headphones on. Additionally, I also enjoy listening to music while coding. Music enhances my focus and fosters my creativity.
   
-<h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/178cd750-0d5f-4f37-b10a-23cd755da420" width="40" height="35">  Coding Journey</h2> 
+<h2>Coding Journey</h2> 
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
 
-<h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/2411fe65-1bf3-42ca-8804-b17a39bc666a" width="40" height="35">    Continuous Learning</h2> 
+<h2>Continuous Learning</h2> 
 
 As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h2 align="left"><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/2ad3f5ba-5182-4e60-b58e-7e01abfb0cf7" width="40" height="35"> Socials:</h2> 
+<h2 align="left">Socials:</h2> 
 <p align="left">
-  <a href="mailto:miraydurgun67@gmail.com" alt="Miray">
+  <a href="mailto:ozdemirbahaadir@gmail.com" alt="Miray">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/in/miraydurgun/" alt="miraydurgun">
+  <a href="https://www.linkedin.com/in/bahadır-özdemir-/" alt="bahadır-özdemir-">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://www.instagram.com/miraaydurgun/" alt="miraaydurgun">
   <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&labelColor=purple&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
    <a href="https://discordapp.com/users/776749637826117640" alt="#4063">
   <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
   </a>
 </p>  
 
-<h2> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/07d6fce0-8e2d-48e0-ace9-a1913e853945" width="40" height="35">  Tech Stack: </h2>
+<h2>Tech Stack: </h2>
 <div align="left">
 <img src="https://img.shields.io/badge/c-%23ffaad4.svg?style=for-the-badge&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -59,7 +52,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 
 
-<h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/46cfffd7-0452-4be1-8c75-787e7c0b1bce" width="40" height="35">   GitHub Stats:</h2>
+<h2>GitHub Stats:</h2>
 
 
 <table border="0" align="center">
