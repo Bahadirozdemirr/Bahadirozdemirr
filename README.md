@@ -1,8 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <div>
   Hello, I am a Junior .Net Developer and I am passionate about exploring the world of software development along with music. I firmly believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
-  
-  [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
 <h2>Coding Journey</h2> 
 
@@ -58,7 +55,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <table border="0" align="center">
    <tr border="0">     
      <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MirayDurgun&amp;theme=react&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+<img src="https://github-readme-stats.vercel.app/api?username=Bahadirozdemirr&amp;theme=react&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 <br>
 </br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirayDurgun&theme=react&hide_border=true">
@@ -81,17 +78,5 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 </p>
 
 
-
-<div align="center"> 
-  <a href="https://github.com/MirayDurgun/CoreBlog">
-    <img width="400" alt="project" src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/0772f8e1-2107-48fb-840f-40ff7f612f56" />
-  </a>
-    <a href="https://github.com/MirayDurgun/HotelApi_Project">
-    <img width="400" alt="project" src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/91114831-c5e8-47e3-b246-db4a32953833" />
-  </a>
-    <a href="https://github.com/MirayDurgun/MyBlogProject">
-    <img width="400" alt="project" src="https://github.com/acunmedyaakademi/MirayDurgun_BlogProject/assets/117771962/e15420b7-3a23-410c-a6f3-f3f6aa40e099" />
-  </a>
-</div>
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
