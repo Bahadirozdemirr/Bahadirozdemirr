@@ -60,6 +60,3 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
   </table>
     
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-  <img alt="Bahadır's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Bahadirozdemirr&theme=react&hide_border=true" />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
