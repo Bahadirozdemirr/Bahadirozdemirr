@@ -2,13 +2,6 @@
 <div>
   Hello, I am a Junior .Net Developer and I am passionate about exploring the world of software development along with music. I firmly believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
   
-<h2>Coding Journey</h2> 
-
-Coding is not just a job for me; it's a journey of continuous learning and growth.
-
-<h2>Continuous Learning</h2> 
-
-As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
 
 <h2 align="left">Socials:</h2> 
 <p align="left">
