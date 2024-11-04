@@ -1,6 +1,12 @@
 <h2>Bahadır Özdemir</h2> 
 <div>
-  Hello, I am a Junior .Net Developer and I am passionate about exploring the world of software development along with music. I firmly believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
+  Hello, I am Bahadır Özdemir, I graduated from the Computer Programming department in 2024 and I have been working as a Web developer for 2 years. I decided to step into the software world with the values ​​I learned and the experiences I gained throughout my education and professional experiences.
+
+I continue to improve myself in this field with great enthusiasm. Currently, I am increasing my competencies in the software industry by working on technologies such as JavaScript, C#, React.js, HTML, CSS, .NET Core Web API and Blazor.
+
+As someone who is open to new ideas and technologies, my desire to constantly learn continues to provide me with better opportunities. I aim to contribute to innovative projects by constantly updating and improving myself in this dynamic and rapidly developing sector.
+
+You can always reach me to communicate and discover new projects together. <br/><br/>
   
 
 <h2 align="left">Socials:</h2> 
