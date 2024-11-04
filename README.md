@@ -30,7 +30,7 @@ You can always reach me to communicate and discover new projects together. <br/>
 <img src="https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23F7DF1E"/>
 
 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-e20000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-%23323330?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=%23F7DF1E"/>
 
 
 
