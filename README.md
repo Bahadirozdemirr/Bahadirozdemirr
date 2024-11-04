@@ -31,13 +31,11 @@ You can always reach me to communicate and discover new projects together. <br/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-e20000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-<img src="https://img.shields.io/badge/sqlite-%237fb6e8.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Git-e87f7f?style=for-the-badge&logo=git&logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+
 </div>
  <br/>
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 
