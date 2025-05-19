@@ -1,12 +1,12 @@
 <h2>Bahadır Özdemir</h2> 
 <div>
-Çanakkale 18 Mart Bilgisayar Programcılığı mezunuyum. Öğrencilik sürecimde yazılım dünyasına olan ilgim sayesinde hem teorik hem de pratik olarak kendimi sürekli geliştirdim. Stajımı yaptığım firmada React.js ve JavaScript ile aktif olarak çalışarak front-end geliştirme konusunda güçlü bir temel edindim.
+Çanakkale 18 Mart Bilgisayar Programcılığı mezunuyum.
 
-Stajın ardından da bu alana olan ilgim artarak devam etti. Yaklaşık 4 yıldır aktif olarak web geliştirme ile ilgileniyor, son 1 yılı aşkın süredir ise profesyonel olarak sektörde yazılım geliştiriyorum.
+Yaklaşık 4 yıldır aktif olarak web geliştirme ile ilgileniyor, son 1 yılı aşkın süredir ise profesyonel olarak sektörde yazılım geliştiriyorum.
 
 Geliştirme sürecinde JavaScript tabanlı teknolojileri tercih ediyorum. Özellikle Node.js ile backend tarafını kodlayarak, tam kapsamlı web uygulamaları geliştiriyorum.
 
-Uzmanlık alanlarım:
+Çalışma alanlarım:
 
 Modern web arayüzleri geliştirme (React.js, JavaScript, HTML5, CSS3, Bootstrap)
 
