@@ -48,7 +48,7 @@ You can always reach me to communicate and discover new projects together. <br/>
 
 
 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-%23323330?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=%23F7DF1E"/>
+
 
 
 
