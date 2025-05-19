@@ -33,29 +33,28 @@ Yenilikleri takip etmeyi, açık kaynak projelere katkı sunmayı ve sürekli ö
 <div align="left">
 
 <!-- C# -->
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 <!-- .NET -->
-<img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-000000.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
 <!-- HTML5 -->
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <!-- CSS3 -->
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-000000.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <!-- JavaScript -->
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 <!-- Bootstrap -->
-<img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-000000.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 <!-- React -->
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-000000.svg?style=for-the-badge&logo=react&logoColor=white"/>
 
 <!-- SQL Server -->
-<img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/SQL%20Server-000000.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 
 
 
