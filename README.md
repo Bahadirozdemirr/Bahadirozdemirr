@@ -22,12 +22,14 @@ Yenilikleri takip etmeyi, açık kaynak projelere katkı sunmayı ve sürekli ö
 <h2 align="left">Socials:</h2> 
 <p align="left">
   <a href="mailto:ozdemirbahaadir@gmail.com" alt="Bahadirozdemirr">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 
   <a href="https://www.linkedin.com/in/bahadır-özdemir-/" alt="bahadır-özdemir-">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-</p>  
+</p>
+
 
 <h2>Tech Stack: </h2>
 <div align="left">
