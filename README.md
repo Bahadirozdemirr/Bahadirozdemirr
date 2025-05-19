@@ -1,12 +1,22 @@
 <h2>Bahadır Özdemir</h2> 
 <div>
-  Hello, I am Bahadır Özdemir, I graduated from the Computer Programming department in 2024 and I have been working as a Web developer for 2 years. I decided to step into the software world with the values ​​I learned and the experiences I gained throughout my education and professional experiences.
+Çanakkale 18 Mart Bilgisayar Programcılığı mezunuyum. Öğrencilik sürecimde yazılım dünyasına olan ilgim sayesinde hem teorik hem de pratik olarak kendimi sürekli geliştirdim. Stajımı yaptığım firmada React.js ve JavaScript ile aktif olarak çalışarak front-end geliştirme konusunda güçlü bir temel edindim.
 
-I continue to improve myself in this field with great enthusiasm. Currently, I am increasing my competencies in the software industry by working on technologies such as JavaScript, C#, React.js, HTML, CSS, .NET Core Web API and Blazor.
+Stajın ardından da bu alana olan ilgim artarak devam etti. Yaklaşık 4 yıldır aktif olarak web geliştirme ile ilgileniyor, son 1 yılı aşkın süredir ise profesyonel olarak sektörde yazılım geliştiriyorum.
 
-As someone who is open to new ideas and technologies, my desire to constantly learn continues to provide me with better opportunities. I aim to contribute to innovative projects by constantly updating and improving myself in this dynamic and rapidly developing sector.
+Geliştirme sürecinde JavaScript tabanlı teknolojileri tercih ediyorum. Özellikle Node.js ile backend tarafını kodlayarak, tam kapsamlı web uygulamaları geliştiriyorum.
 
-You can always reach me to communicate and discover new projects together. <br/><br/>
+Uzmanlık alanlarım:
+
+Modern web arayüzleri geliştirme (React.js, JavaScript, HTML5, CSS3, Bootstrap)
+
+Backend geliştirme (Node.js, Express.js)
+
+Veritabanı yönetimi (SQL Server, MySQL)
+
+Tam özellikli e-ticaret projeleri ve özelleştirilmiş web uygulamaları
+
+Yenilikleri takip etmeyi, açık kaynak projelere katkı sunmayı ve sürekli öğrenmeyi seviyorum. GitHub profilimde hem bireysel projelerimi hem de çeşitli yazılım çalışmalarımı inceleyebilirsiniz. <br/><br/>
   
 
 <h2 align="left">Socials:</h2> 
