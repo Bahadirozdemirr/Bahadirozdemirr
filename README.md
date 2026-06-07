@@ -1,22 +1,6 @@
 <h2>Bahadır Özdemir</h2> 
 <div>
-Çanakkale 18 Mart Bilgisayar Programcılığı mezunuyum.
-
-Yaklaşık 4 yıldır aktif olarak web geliştirme ile ilgileniyor, son 1 yılı aşkın süredir ise profesyonel olarak sektörde yazılım geliştiriyorum.
-
-Geliştirme sürecinde JavaScript tabanlı teknolojileri tercih ediyorum. Özellikle Node.js ile backend tarafını kodlayarak, tam kapsamlı web uygulamaları geliştiriyorum.
-
-Çalışma alanlarım:
-
-Modern web arayüzleri geliştirme (React.js, JavaScript, HTML5, CSS3, Bootstrap)
-
-Backend geliştirme (Node.js, Express.js)
-
-Veritabanı yönetimi (SQL Server, MySQL)
-
-Tam özellikli e-ticaret projeleri ve özelleştirilmiş web uygulamaları
-
-Yenilikleri takip etmeyi, açık kaynak projelere katkı sunmayı ve sürekli öğrenmeyi seviyorum. GitHub profilimde hem bireysel projelerimi hem de çeşitli yazılım çalışmalarımı inceleyebilirsiniz. <br/><br/>
+. <br/><br/>
   
 
 <h2 align="left">Socials:</h2> 
